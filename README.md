@@ -68,7 +68,7 @@ wine --version
 
 2. **Run the app** (from the project folder):
    ```bash
-   python3 test.py
+   python3 World of tanks replay launcher.py
    ```
 
 3. **Select or auto-detect WoT executable**:  
